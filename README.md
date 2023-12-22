@@ -1,1 +1,1 @@
-## confliiiiict resolution ##
+# conflict resolution by me
